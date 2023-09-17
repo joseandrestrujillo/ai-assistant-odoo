@@ -1,12 +1,4 @@
-<div style="width: fit-content; background-color: #f8f9fa; padding: .7rem 10rem; border-radius: .2rem; margin: 1.5rem 0;">
-    <img src="./docs/images/odoo-instalation.png" alt="Instalación"/>
-</div>
-
 # Odoo AI to SQL Assistant Addon
-
-<div style="background-color:white; width: fit-content; padding: .2rem  1rem; float: left; margin-right: .2rem;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Odoo_logo.svg/600px-Odoo_logo.svg.png" alt="Odoo" width="50 rem"/>
-</div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
